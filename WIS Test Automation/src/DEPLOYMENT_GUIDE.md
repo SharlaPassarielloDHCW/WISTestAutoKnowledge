@@ -1,7 +1,7 @@
 # WIS Knowledge Hub - Deployment Guide
 
 ## Overview
-Your WIS Test Automation Knowledge Hub is now **fully configured** with Supabase backend for multi-user functionality. This guide will help you deploy it to your internal NHS network.
+Your WIS Test Automation Knowledge Hub is now **fully configured** with Supabase backend for multi-user functionality. This guide will help you deploy it.
 
 ## What's Been Set Up
 
